@@ -945,11 +945,11 @@ Product Family</b>
     <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
 
     <!-- Contact form JavaScript -->
-    <script src="js/jqBootstrapValidation.js"></script>
-    <script src="js/contact_me.js"></script>
+    <script src="jqBootstrapValidation.js"></script>
+    <script src="contact_me.js"></script>
 
     <!-- Custom scripts for this template -->
-    <script src="js/agency.min.js"></script>
+    <script src="agency.min.js"></script>
 
 </body>
 
